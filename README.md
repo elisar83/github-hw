@@ -18,7 +18,7 @@
 Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-https://github.com/elisar83/github-hw/commit/30e570535018e2d1e098f3d65092c65e6c8fc3bb
+**Ответ: https://github.com/elisar83/github-hw/commit/30e570535018e2d1e098f3d65092c65e6c8fc3bb
 
 # Задание 2
 Что нужно сделать:
@@ -28,6 +28,8 @@ https://github.com/elisar83/github-hw/commit/30e570535018e2d1e098f3d65092c65e6c8
 Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 Сделайте коммит и пуш.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+**Ответ: https://github.com/elisar83/github-hw/commit/914d12e07660bc5773c74af4350722565377128a
 
 # Задание 3
 Что нужно сделать:
